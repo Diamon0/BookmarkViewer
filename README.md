@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Bookmark Viewer Icon](appicon.png)
+</div>
+
 # BookmarkViewer
 Still being build over here
 - - -
