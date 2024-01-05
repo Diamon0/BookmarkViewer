@@ -1,3 +1,4 @@
+![Bookmark Viewer Icon](appicon.png)
 # BookmarkViewer
 Still being build over here
 - - -
